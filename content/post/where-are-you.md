@@ -2,7 +2,6 @@
 date = 2022-12-08T02:58:14Z
 description = ""
 disable_share = false
-draft = true
 featured_image = ""
 tags = ["poem"]
 title = "WHERE ARE YOU?"
