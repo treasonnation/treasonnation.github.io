@@ -1,6 +1,6 @@
 ---
 title: 'Ananke: a Hugo Theme'
-featured_image: "/images/gohugo-default-sample-hero-image.jpg"
+featured_image: "/images/my-project-1.png"
 description: The last theme you'll ever need. Maybe.
 
 ---
