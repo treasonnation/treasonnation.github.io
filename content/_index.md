@@ -1,8 +1,8 @@
 ---
-title: 'Ananke: a Hugo Theme'
+title: TREASON NATION
 featured_image: "/images/my-project-1.png"
-description: The last theme you'll ever need. Maybe.
+description: Thoughts and More
 draft: true
 
 ---
-Welcome to my blog with some of my work in progress. I've been working on this book idea. You can read some of the chapters below.
+Welcome to my website.
